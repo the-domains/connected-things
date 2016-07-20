@@ -1,0 +1,14 @@
+layout_spectrum: 0.5378332124091685
+typography_spectrum: 0.0275735124014318
+color:
+  brandStrength: 0.28252687328495085
+  lightness: 0.7797106574289501
+  saturation: 0.22850970458239317
+  rhythmicContrast: 0.07611200422979891
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: connected things
