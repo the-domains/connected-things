@@ -4,8 +4,15 @@
         <description><![CDATA[connected things]]></description>
         <link>https://thegrid.ai/connected-things/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 15:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 15:49:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/connected-things/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IBM Design Thinking]]></title>
+            <description><![CDATA[<article><h1>IBM Design Thinking</h1><p>Learn about IBM Design Thinking: our way to understand people and deliver outcomes at speed and scale.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/caca49c995d41634a17ccec721a8b379/croprotate.png?cropheight=2626&cropwidth=5000&degrees=0&input=http%3A%2F%2Fwww.ibm.com%2Fdesign%2Fassets%2Fthinking%2Fsocial_sharing%2Fibm_design_thinking.png&x=0&y=0"></article>]]></description>
+            <link>http://www.ibm.com/design/thinking/</link>
+            <guid isPermaLink="false">8148ae10-be5e-4649-8cdd-e601799f2a60</guid>
+            <pubDate>Wed, 20 Jul 2016 15:48:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Working with wearables and Bluemix]]></title>
             <description><![CDATA[<article><h1>Working with wearables and Bluemix</h1><p>Wearable technology devices are becoming very popular these days. They can enhance the lives of human beings and, from a technical perspective, are big drivers of big data. This article provides a survey of several wearable devices available in the market today and how you can use Bluemix services to interact with them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e49d4f9bef02fb827385f0310dd83b3b51e9fe9.png"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://developer.ibm.com/bluemix/2015/08/31/scaling-to-100k-devices-with-iot-on-bluemix-part2/</link>
             <guid isPermaLink="false">be68048f-8bf6-415e-835d-aea0a7074443</guid>
             <pubDate>Wed, 20 Jul 2016 15:48:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM Design Thinking]]></title>
-            <description><![CDATA[<article><h1>IBM Design Thinking</h1><p>Learn about IBM Design Thinking: our way to understand people and deliver outcomes at speed and scale.</p><img src="http://ibm.com/design/assets/thinking/social_sharing/ibm_design_thinking.png"></article>]]></description>
-            <link>http://www.ibm.com/design/thinking/</link>
-            <guid isPermaLink="false">8148ae10-be5e-4649-8cdd-e601799f2a60</guid>
-            <pubDate>Wed, 20 Jul 2016 15:47:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
