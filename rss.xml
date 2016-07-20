@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[connected things]]></title>
+        <description><![CDATA[connected things]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jul 2016 15:48:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scaling from 1 to 100K+ connected devices with IoT on Bluemix - Part 2]]></title>
+            <description><![CDATA[<article><h1>Scaling from 1 to 100K+ connected devices with IoT on Bluemix - Part 2</h1><p>In Part 1 of this series, we introduced you to the Internet of Things (IoT) Foundation service in Bluemix and how it connects an IoT device to the cloud, enabling it to leverage the wealth of available cloud services. But we also posed a difficult question: What happens if you're really successful and 100K+ devices want to connect?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f3dfb74b8deee6b3470c03394fe7593d/noop.jpeg?input=https%3A%2F%2Fdeveloper.ibm.com%2Fbluemix%2Fwp-content%2Fuploads%2Fsites%2F20%2F2015%2F08%2FRondeau_autoscaling_add_rule1.jpeg"></article>]]></description>
+            <link>https://developer.ibm.com/bluemix/2015/08/31/scaling-to-100k-devices-with-iot-on-bluemix-part2/</link>
+            <guid isPermaLink="false">be68048f-8bf6-415e-835d-aea0a7074443</guid>
+            <pubDate>Wed, 20 Jul 2016 15:48:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
